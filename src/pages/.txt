@@ -1,0 +1,21 @@
+src/
+├── components/
+│   ├── Navbar.jsx
+│   ├── Hero.jsx
+│   ├── FlavorSection.jsx
+│   ├── AboutSection.jsx
+│   ├── ContactForm.jsx
+│   ├── Footer.jsx
+│   ├── TestimonialCard.jsx (Optional)
+│   └── ... (Other reusable components)
+├── pages/
+│   ├── Home.jsx
+│   ├── Flavors.jsx (Optional - if you want a dedicated flavors page)
+│   ├── About.jsx (Optional - if you want a dedicated about page)
+│   ├── Contact.jsx (Optional - if you want a dedicated contact page)
+│   └── ... (Other pages)
+├── App.js
+├── App.css (Optional, use sparingly)
+├── index.js
+├── index.css
+└── ... (Other files)
